@@ -1,6 +1,6 @@
 # coding: utf-8
 """
-作者：zhaoxingfeng	日期：2016.12.07
+作者：zhaoxingfeng	日期：2016.12.08
 功能：遗传算法，Genetic Algorithm（GA）
 版本：2.0
 """
